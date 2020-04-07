@@ -1,4 +1,4 @@
-package PengH.leetcode;
+package LeetCode;
 
 import java.util.*;
 
