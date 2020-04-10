@@ -1,9 +1,8 @@
 package Offer.m06;
 
-import LeetCode.ListNode;
+import LeetCode.Untitle.ListNode;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 /*递归算法*/
 public class Solution2 {
