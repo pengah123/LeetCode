@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Solution460 {
     public static void main(String[] args) {
-        LeetCode.LFUCache cache = new LeetCode.LFUCache( 0  );
+        LFUCache cache = new LFUCache( 0  );
         HashMap<Integer,Integer> map=cache.map;
         HashMap<Integer,Integer> num=cache.num;
         HashMap<Integer,Integer> count=cache.c;
